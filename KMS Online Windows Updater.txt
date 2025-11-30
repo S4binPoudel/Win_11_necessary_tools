@@ -3,9 +3,9 @@ https://massgrave.dev/#how-to-activate-windows--office--extended-updates-esu
 
 
 Open PowerShell
-Click the Start Menu, type PowerShell, then open it.
 
-Copy and paste the code below, then press enter.
+1) Click the Start Menu, type PowerShell, then open it.
+2) Copy and paste the code below, then press enter.
+3) For Windows 8, 10, 11: 
 
-For Windows 8, 10, 11: 📌
 irm https://get.activated.win | iex
