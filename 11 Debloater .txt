@@ -1,0 +1,11 @@
+https://github.com/Raphire/Win11Debloat
+
+Download & run the script automatically via PowerShell.
+
+1) Open PowerShell or Terminal, preferably as an administrator.
+2) Copy and paste the command below into PowerShell:
+
+& ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
+
+3) Wait for the script to automatically download Win11Debloat.
+4) Carefully read through and follow the on-screen instructions.
