@@ -1,3 +1,7 @@
+
+# CREDIT - https://github.com/tsgrgo/windows-update-disabler/releases/tag/v2.0.0
+
+
 # Windows Update Disabler
 
 ![](https://i.imgur.com/pGsWaOt.png 'Something went wrong')
