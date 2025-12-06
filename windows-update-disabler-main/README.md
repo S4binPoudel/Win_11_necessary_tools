@@ -1,5 +1,5 @@
 
-# CREDIT - https://github.com/tsgrgo/windows-update-disabler/releases/tag/v2.0.0
+# CREDIT - https://github.com/tsgrgo/windows-update-disabler
 
 
 # Windows Update Disabler
